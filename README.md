@@ -1,5 +1,5 @@
 
-Project 5 Overview
+Project 5: DCGAN Implementation from Scratch
 
 This project implements a Deep Convolutional Generative Adversarial Network (DCGAN) inspired by the groundbreaking research paper "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks" by Radford et al. (2015). The paper introduced a novel architecture for GANs, leveraging deep convolutional and transposed convolutional layers to generate high-quality images.
 
