@@ -16,6 +16,7 @@ Discriminator:
 Receives both real and fake images.
 Classifies images as real or fake using convolutional layers.
 Aims to accurately distinguish between real and fake images.
+
 Training Process
 
 Generate Fake Images: The generator creates a batch of fake images.
